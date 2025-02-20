@@ -1,6 +1,6 @@
 # Конспект лекций по Git
 
-Это конспект лекций по Git, основанный на плейлисте [YouTube плейлист](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb). Данный материал предназначен для всех, кто хочет изучить систему контроля версий Git.
+Это конспект лекций по Git, основанный на плейлисте [YouTube плейлист](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb). Для его прочтения потребуется программа Obsidian.
 
 ## Что такое Git?
 
